@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subbiah S</h1>
 <h3 align="center">Aspiring Full-Stack Developer</h3>
 
-
-
-<h3 align="left">Connect with me:csesubbiah@gmail.com</h3>
+<h3 align="left">Connect with me: csesubbiah@gmail.com</h3>
 <p align="left">
 </p>
 
@@ -30,5 +28,5 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="margin-right: 15px;" />
   </a>
-</p>
-
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="m
